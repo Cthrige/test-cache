@@ -1,1 +1,1 @@
-# test-cache med react
+# test-cache with react, cra template, changed icon
